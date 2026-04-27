@@ -20,12 +20,5 @@
 
 ## Запуск
 ```bash
-python main.py
+python Random_Quote_Generator.py
 
-
-
-гитигнор
-
-__pycache__/
-*.pyc
-quotes_history.json
